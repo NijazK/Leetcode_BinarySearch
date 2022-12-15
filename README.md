@@ -1,2 +1,1 @@
-# Leetcode_BinarySearch
-Curated list of solutions from Leetcode
+# Binary Search Problems from Leetcode
